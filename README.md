@@ -1,0 +1,1 @@
+Run using: npm install && npm run dev
